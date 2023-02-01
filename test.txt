@@ -1,1 +1,8 @@
-hi
+hi, why are you gay?
+
+
+const static HandleError = (e) => {
+  console.log(e)
+  throw new Error('Ich bin retarded!')
+  return
+}
